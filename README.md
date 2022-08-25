@@ -7,7 +7,7 @@
 ## **Follow me** 
    - **Twitter** -👉 @Jatin7744 
    - **Instagram** - 👉 code_red_7744
-   - **Stackoverflow** - 👉 (jatin.7744)[https://stackoverflow.com/users/8717642/jatin-7744]
+   - **Stackoverflow** - 👉 [jatin.7744](https://stackoverflow.com/users/8717642/jatin-7744)
    
 ## 💥 For Javascript Tricks 💥
    - **Instagram** - 👉 corered_7744 
