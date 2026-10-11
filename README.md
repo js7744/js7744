@@ -6,7 +6,7 @@ I'm a software engineer passionate about building scalable applications, solving
 
 I enjoy exploring new technologies, improving software architecture, and finding better ways to build reliable, maintainable, and user-friendly applications.
 
-Currently, I'm particularly interested in the intersection of **software engineering and AI** — exploring how Generative AI, Large Language Models (LLMs), and AI-powered tools can help us build smarter applications.
+Currently, I'm particularly interested in the intersection of **software engineering and AI** exploring how Generative AI, Large Language Models (LLMs), and AI-powered tools can help us build smarter applications.
 
 ---
 
